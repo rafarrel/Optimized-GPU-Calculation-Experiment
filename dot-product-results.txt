@@ -1,9 +1,0 @@
-Dot Product Results
--------------------------------------
-| GPU Result           | 16412.5391 |
-| CPU Result           | 16412.5195 |
-| Relative Error       | 0.00000119 |
-| CPU Elapsed          | 0.2907     |
-| GPU Elapsed (mem)    | 0.3114     |
-| GPU Elapsed (no mem) | 0.0389     |
--------------------------------------
